@@ -1,4 +1,7 @@
-
+.bottomContainer {
+    height: 500px;
+    background-image: linear-gradient(to bottom, transparent, rgb(226, 226, 226));
+}
 @media screen and (min-height: 1081px) {
     .header {
         height: 75vh;
